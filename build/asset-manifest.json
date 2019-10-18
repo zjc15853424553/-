@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66d12d5b.chunk.css",
+    "main.js": "/static/js/main.faf5c899.chunk.js",
+    "main.js.map": "/static/js/main.faf5c899.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f147cbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f147cbc.js.map",
+    "static/css/2.32848bb4.chunk.css": "/static/css/2.32848bb4.chunk.css",
+    "static/js/2.c5fedba3.chunk.js": "/static/js/2.c5fedba3.chunk.js",
+    "static/js/2.c5fedba3.chunk.js.map": "/static/js/2.c5fedba3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.00c47932f004e963097dd9ac17395f8f.js": "/precache-manifest.00c47932f004e963097dd9ac17395f8f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.32848bb4.chunk.css.map": "/static/css/2.32848bb4.chunk.css.map",
+    "static/css/main.66d12d5b.chunk.css.map": "/static/css/main.66d12d5b.chunk.css.map",
+    "static/media/collect_03.jpg": "/static/media/collect_03.45cd524d.jpg",
+    "static/media/iconfont.css": "/static/media/iconfont.db6d79aa.woff",
+    "static/media/lengthpic_03.jpg": "/static/media/lengthpic_03.6b15cb8b.jpg",
+    "static/media/name.jpg": "/static/media/name.ff87304b.jpg",
+    "static/media/nav02.jpg": "/static/media/nav02.421abb22.jpg",
+    "static/media/navleft01.jpg": "/static/media/navleft01.ad055a98.jpg",
+    "static/media/navleft02.jpg": "/static/media/navleft02.f547e558.jpg",
+    "static/media/pengyouquan.jpg": "/static/media/pengyouquan.d0575fd9.jpg",
+    "static/media/weixin.jpg": "/static/media/weixin.f253e0b9.jpg",
+    "static/media/xinlang.jpg": "/static/media/xinlang.38df7fd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f147cbc.js",
+    "static/css/2.32848bb4.chunk.css",
+    "static/js/2.c5fedba3.chunk.js",
+    "static/css/main.66d12d5b.chunk.css",
+    "static/js/main.faf5c899.chunk.js"
+  ]
+}
